@@ -1,7 +1,7 @@
 package com.MoodAnalyser;
 
 public class MoodAnalyzer {
-	  public MoodAnalyzer() {
+	 public MoodAnalyzer() {
 	    }
 
 	    public String MoodAnalyzer(String message) {
